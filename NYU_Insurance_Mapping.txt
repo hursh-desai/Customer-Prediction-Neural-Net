@@ -1,0 +1,112 @@
+INS00034|Retirement|I
+INS00085|Leaving a Legacy|I
+INS00093|Retirement|A
+INS00028|Managing and Growthing Client Wealth|M
+INS00089|Leaving a Legacy|I
+INS00014|Travel Insurance|X
+INS00052|Children s Future|A
+INS00101|Retirement|A
+INS00110|Protecting My Family|A
+INS00068|Personal Accident Insurance|X
+INS00047|Retirement|I
+INS00013|Protecting My Family|A
+INS00007|Protecting My Family|A
+INS00037|Children s Future|M
+INS00019|Managing and Growthing Client Wealth|A
+INS00057|Children s Future|P
+INS00077|Managing and Growthing Client Wealth|I
+INS00054|Managing and Growthing Client Wealth|A
+INS00045|Retirement|I
+INS00063|Retirement|P
+INS00095|Retirement|A
+INS00021|Protecting My Family|P
+INS00049|Retirement|P
+INS00092|Retirement|P
+INS00084|Protecting My Family|I
+INS00058|Children s Future|P
+INS00065|Retirement|P
+INS00042|Protecting My Family|M
+INS00024|Children s Future|A
+INS00078|Managing and Growthing Client Wealth|I
+INS00106|Protecting My Family|A
+INS00081|Children s Future|I
+INS00015|Retirement|A
+INS00022|Children s Future|A
+INS00070|Retirement|I
+INS00031|Retirement|P
+INS00008|SmartCare Elite Individual Health|X
+INS00075|Retirement|I
+INS00076|Managing and Growthing Client Wealth|I
+INS00090|Leaving a Legacy|I
+INS00043|Leaving a Legacy|M
+INS00046|Retirement|I
+INS00083|Protecting My Family|I
+INS00005|Protecting My Family|A
+INS00107|Protecting My Family|A
+INS00029|Leaving a Legacy|P
+INS00003|Protecting My Family|I
+INS00104|Retirement|A
+INS00098|Retirement|P
+INS00018|Children s Future|A
+INS00002|Protecting My Family|I
+INS00053|Children s Future|A
+INS00033|Retirement|I
+INS00100|Children s Future|A
+INS00072|Retirement|I
+INS00035|Children s Future|I
+INS00109|Protecting My Family|A
+INS00091|Protecting My Family|M
+INS00012|Protecting My Family|A
+INS00062|Protecting My Family|P
+INS00082|Protecting My Family|I
+INS00103|Retirement|A
+INS00001|Protecting My Family|A
+INS00038|Retirement|M
+INS00004|Protecting My Family|A
+INS00099|Retirement|A
+INS00066|Protecting My Family|I
+INS00040|Retirement|M
+INS00074|Retirement|I
+INS00115|Protecting My Family|A
+INS00061|Managing and Growthing Client Wealth|P
+INS00086|Children s Future|I
+INS00011|Protecting My Family|A
+INS00114|Protecting My Family|A
+INS00088|Leaving a Legacy|I
+INS00050|Protecting My Family|I
+INS00094|Retirement|A
+INS00044|Protecting My Family|M
+INS00097|Retirement|A
+INS00056|Leaving a Legacy|A
+INS00069|Children s Future|A
+INS00041|Protecting My Family|M
+INS00036|Leaving a Legacy|M
+INS00032|Retirement|I
+INS00059|Children s Future|P
+INS00060|Children s Future|P
+INS00079|Managing and Growthing Client Wealth|I
+INS00111|Protecting My Family|I
+INS00027|Managing and Growthing Client Wealth|A
+INS00048|Leaving a Legacy|A
+INS00064|Children s Future|M
+INS00096|Retirement|A
+INS00051|Children s Future|A
+INS00071|Retirement|I
+INS00009|StudentCare Exclusive Individual Health|X
+INS00023|Children s Future|A
+INS00010|Leaving a Legacy|A
+INS00006|Protecting My Family|A
+INS00112|Protecting My Family|I
+INS00026|Managing and Growthing Client Wealth|A
+INS00113|Protecting My Family|A
+INS00067|Protecting My Family|I
+INS00102|Retirement|A
+INS00073|Retirement|I
+INS00016|Retirement|A
+INS00030|Protecting My Family|M
+INS00020|Managing and Growthing Client Wealth|A
+INS00017|Retirement|A
+INS00105|Retirement|P
+INS00039|Retirement|M
+INS00087|Leaving a Legacy|I
+INS00080|Leaving a Legacy|A
